@@ -102,7 +102,19 @@ namespace DisableSpells
                 ChampionName = "Zilean",
                 AvailableSpell = SpellSlot.W
             });
-
+            {
+                ChampionName = "Veigar",
+                AvailableSpell = SpellSlot.R
+            });
+            {
+                ChampionName = "Zyra",
+                AvailableSpell = SpellSlot.Q
+            });
+            {
+                ChampionName = "Jinx",
+                AvailableSpell = SpellSlot.R
+            });
+            
             /*
              * Ashe:
              * -> Fiora: OnAttack: Instant ultimate / no duration limit / less damage / can be attacked
